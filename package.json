@@ -1,0 +1,13 @@
+{
+  "name": "events-api",
+  "version": "1.0.0",
+  "description": "RESTful API for school organization events using Node.js HTTP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "author": "",
+  "type": "commonjs"
+}
